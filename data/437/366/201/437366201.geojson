@@ -1,0 +1,37 @@
+{
+  "id": 437366201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"0.0,0.0,0.0,0.0",
+    "geom:latitude":0.0,
+    "geom:longitude":0.0,
+    "iso:country":"BD",
+    "src:geom":"geoplanet",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":"22502081"
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:hierarchy":[],
+    "wof:id":437366201,
+    "wof:lastmodified":1459825206,
+    "wof:name":"4345",
+    "wof:parent_id":"421195997",
+    "wof:placetype":"postalcode",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.0,
+    0.0,
+    0.0,
+    0.0
+],
+  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+}
